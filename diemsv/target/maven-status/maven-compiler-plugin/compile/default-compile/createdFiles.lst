@@ -1,0 +1,7 @@
+com/mycompany/diemsv/entities/diemMAE.class
+com/mycompany/diemsv/entities/diemSSG.class
+com/mycompany/diemsv/entities/Student.class
+com/mycompany/diemsv/utils/HibernateUtils.class
+com/mycompany/diemsv/Diemsv.class
+com/mycompany/diemsv/entities/diemPRO.class
+com/mycompany/diemsv/entities/diemCSI.class
